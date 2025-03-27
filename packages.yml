@@ -1,0 +1,11 @@
+packages:
+
+  - package: data-mie/dbt_profiler
+    version: 0.8.4
+
+  - package: calogica/dbt_expectations
+    version: 0.10.4
+
+
+  - git: "https://github.com/MariiaKloss/dq_tools_pckg.git"
+    revision: main
